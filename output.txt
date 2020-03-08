@@ -1,0 +1,11 @@
+Python est un langage de programmation compilé et concurrent
+inspiré de C et Pascal. Ce langage a été développé par Google5 à
+partir d'un concept initial de Robert Griesemer, Rob Pike et Ken Thompson.
+Python possède deux implémentations, la première utilise gc, le compilateur Python
+et la seconde utilise gccgo, « frontend » GCC écrit en C++.
+Python est écrit en C en utilisant yacc et GNU Bison pour l'analyse syntaxique6
+jusqu'à la version 1.4, et en Python lui-même pour les versions suivantes (1.5).
+Logo de Google Python
+Mascotte de Google Go.
+Un objectif de Python est donné par Rob Pike, l'un de ses trois
+créateurs, qui dit à propos des développeurs inexpérimentés
